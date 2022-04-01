@@ -1,6 +1,6 @@
 # Informações do Minecraft Cloud Shell
 
-Neste projeto, ensinaremos você a hospedar seu próprio servidor Java/Bedrock Minecraft usando o `Google Cloud Shell`. Isso funciona sob o sistema operacional Linux baseado em `Ubuntu/Debian`. Este projeto requer **NENHUM CARTÃO DE CRÉDITO** e todo o projeto é inteiramente **GRATUITO**! Você pode fazer um servidor sem lhe custar nada.
+Hospedagem de servidor Java/Bedrock Minecraft usando o `Google Cloud Shell`. Isso funciona sob o sistema operacional Linux baseado em `Ubuntu/Debian`.
 
 **Os seguintes recursos são adicionados a este projeto:**
 - Suporta diferentes tipos de servidores Bedrock
